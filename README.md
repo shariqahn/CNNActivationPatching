@@ -1,4 +1,6 @@
 # 6.s898 2023 Blogposts 
+## If you don't want to load the report locally as described below, [see the PDF version](VisionActivationPatching.pdf).
+
 
 ### Installation
 
